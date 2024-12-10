@@ -291,3 +291,10 @@ Children:
       DataType: LocalizedText
       ModellingRule: Optional
       Value: {"LocaleId":"en-US","Text":"Button1"}
+  - Name: EditableLabel1
+    Type: EditableLabel
+    Children:
+    - Name: Text
+      Type: BaseDataVariableType
+      DataType: LocalizedText
+      Value: {"LocaleId":"en-US","Text":"EditableLabel1"}
