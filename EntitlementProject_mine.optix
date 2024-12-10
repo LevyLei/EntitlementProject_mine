@@ -26,16 +26,16 @@ Project:
   5:
    Uri: 'urn:FTOptix:HMIProject'
    Module: FTOptix.HMIProject
-   Version: 6.4
+   Version: 6.5
   6:
    Uri: 'urn:FTOptix:NativeUI'
    Module: FTOptix.NativeUI
    Version: 2.1
  Statistics:
-  TotalNodeCount: 122
-  Objects: 64
+  TotalNodeCount: 124
+  Objects: 65
   ObjectTypes: 1
-  Variables: 57
+  Variables: 58
   VariableTypes: 0
   DataTypes: 0
   Methods: 0
